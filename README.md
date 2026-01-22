@@ -1,6 +1,6 @@
 # Hi 👋, I'm Hao!
 
-I'm an  **16 year old** IB student at **Port Moody Secondary School**, focused on **Computer Science and Machine Learning**
+I'm an  **17 year old** IB student at **Port Moody Secondary School**, focused on **Computer Science and Machine Learning**
 
 ## Tech Stack
 
